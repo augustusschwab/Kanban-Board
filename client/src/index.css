@@ -242,6 +242,10 @@ tbody tr:nth-child(odd) {
   justify-content: center;
 }
 
+.error{
+  background-color: red;
+}
+
 
 @media (prefers-color-scheme: light) {
   :root {
