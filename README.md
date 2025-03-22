@@ -1,7 +1,7 @@
 # Candidate-Search-App
 
 ## Description
-A web application for a Kanban Board productivity tool. The board is designed to be collaborative and it setup to authenitcate users in order to get access to the baord. 
+A web application for a Kanban Board productivity tool. The board is designed to be collaborative and it is setup to authenitcate users in order to get access to the baord. 
 
 ## Table of Contents
   - [Installation](#installation)
@@ -15,7 +15,7 @@ A web application for a Kanban Board productivity tool. The board is designed to
 To install, clone or download the project folder and run `npm install` from the root directory then `npm start` to run a local instance. The application uses the `react`, `vite`, `typescript`, `react-dom`, `eslint`, and `sequelize` JavaScript packages. Postgres will need to be installed on the machine and the `kannban_db` will need to be created and seeded. See the scripts in the `package.json` file.
 
 ## Usage
-This application runs in the web browser. It can be accessed through the following link.
+This application runs in the web browser. A deployed instance can be accessed through the following link.
 
   [Deployed Application](https://candidate-search-app-1-st2i.onrender.com/)
 
@@ -42,4 +42,4 @@ This application runs in the web browser. It can be accessed through the followi
   
   
 > [!NOTE]
-  >All code was written by Gus Schwab using the starter code provided in Module 10 of the U of U Software Development Bootcamp.
+  >All code was written by Gus Schwab using the starter code provided in Module 14 of the U of U Software Development Bootcamp.
